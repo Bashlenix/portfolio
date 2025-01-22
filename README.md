@@ -44,7 +44,8 @@ If you’re here, you just have found not only the working student you've been l
 ## 💻 Projects
 - **Rename Tool:** Built a Python-based command-line utility that replaces spaces in file and folder names with underscores, simplifying access and enhancing compatibility, particularly for command-line usage and automation workflows.
 - **File Organizer:** Created a React-based command-line tool that efficiently sorts and categorizes files into designated folders based on their extensions, promoting a cleaner and more organized directory structure.
-- **Youtube Clone**: Practiced web development by cloning Youtube using HTML and CSS.
+- **Youtube Clone**: Built a front-end clone of YouTube using HTML and CSS, honing skills in layout design, and user interface (UI) structuring.
+- **Task Tracker**: Developed a task tracker application with React, focusing on component-based architecture, state management, and user interaction.
 
 
 ## 🤝 Let’s Build Something Great Together
