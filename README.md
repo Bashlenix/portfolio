@@ -4,7 +4,7 @@ layout: default
 
 # Hey there, I'm your match 😁!
 
-If you’re here, you just have found not only the working student you've been looking for, but a winning investment too (promis 😉). My name is <strong>Muhammad Otah Bashi</strong>, and I’m thrilled about the opportunity to bring my skills and my passion for new technologies and problem-solving to your team. I believe we could be a great match—here's why:
+If you’re here, you’ve just found not only the working student or Dual Study candidate you’ve been looking for but also a winning investment (promise 😉). My name is <strong>Muhammad Otah Bashi</strong>, and I’m excited about the opportunity to bring my skills, passion for new technologies, and problem-solving mindset to your team. I believe we’d be a great match—here’s why:
 
 ## 🚀 Why I’m Your Match
 
